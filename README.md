@@ -1,16 +1,12 @@
-# action_figure
+#Action Figure Shop UI In Flutter
 
-A new Flutter project.
+Action Figure Shop UI In Flutter with some basic logic and navigation, It Contains
+- Home Screen
+- Product Detail Screen
+- Cart Screen 
 
-## Getting Started
+<a href="https://www.buymeacoffee.com/vaidehishah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/vaidehi2701/action_figure/assets/55477266/18284960-0af0-4b16-bc53-662411109792" width="300" height="550" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
